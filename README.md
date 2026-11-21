@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,42:7c3aed,78:fe428e,100:f59e0b&height=170&section=header&animation=twinkling" width="100%" alt="Animated velvet indigo, violet, rose, and gold wave banner" />
+  <img src="./banner.jpg.jpg" width="100%" alt="Joynal Abedin — Full-Stack Engineer & AI / RLHF Specialist" />
 </p>
 
 <p align="center">
   <a href="https://github.com/AbedinJoynal">
-    <img src="https://avatars.githubusercontent.com/u/41780816?s=240&v=4" width="134" height="134" alt="Joynal Abedin profile picture" />
+    <!-- <img src="https://avatars.githubusercontent.com/u/41780816?s=240&v=4" width="134" height="134" alt="Joynal Abedin profile picture" /> -->
   </a>
 </p>
 
 <h1 align="center">
-  Hey, I’m Joynal Abedin <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="34" alt="Animated waving hand" />
+  Hey, I’m Joynal <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="34" alt="Animated waving hand" />
 </h1>
 
 <p align="center">
