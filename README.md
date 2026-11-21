@@ -179,7 +179,7 @@ I operate at the intersection of **production software engineering** and **front
         <a href="https://hotelghor.netlify.app/">
           <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=netlify&logoColor=black" alt="Hotelghor Live Demo" />
         </a> 
-        <a href="https://github.com/AbedinJoynal/Hotelghor-frontend">
+        <a href="https://github.com/AbedinJoynal/Hotelghor">
           <img src="https://img.shields.io/badge/Repository-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Hotelghor Repository" />
         </a>
       </p>
