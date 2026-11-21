@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060b14,45:0f4c81,78:0891b2,100:10b981&height=170&section=header&animation=twinkling" width="100%" alt="Animated carbon navy, cobalt, cyan, and emerald wave header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,42:7c3aed,78:fe428e,100:f59e0b&height=170&section=header&animation=twinkling" width="100%" alt="Animated velvet indigo, violet, rose, and gold wave banner" />
 </p>
 
 <p align="center">
