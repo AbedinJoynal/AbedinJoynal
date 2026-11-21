@@ -221,12 +221,8 @@ I operate at the intersection of **production software engineering** and **front
 <br />
 
 <p align="center">
-  <a href="https://github.com/AbedinJoynal">
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbedinJoynal&theme=github_dark&animation=draw" alt="Animated GitHub contribution summary card" />
-  </a>   
-  <a href="https://github.com/AbedinJoynal?tab=repositories">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbedinJoynal&layout=donut&langs_count=6&bg_color=0b1220&title_color=38bdf8&text_color=e2e8f0&hide_border=true&border_radius=14" alt="Most-used languages donut chart" />
-  </a>
+  <a href="https://github.com/AbedinJoynal"><img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbedinJoynal&name=Joynal%20Abedin&theme=github_dark&animation=draw" alt="Animated GitHub contribution summary card" /></a>   
+  <a href="https://github.com/AbedinJoynal?tab=repositories"><img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbedinJoynal&layout=donut&langs_count=6&bg_color=0b1220&title_color=38bdf8&text_color=e2e8f0&hide_border=true&border_radius=14" alt="Most-used languages donut chart" /></a>
 </p>
 
 <br />
