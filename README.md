@@ -76,7 +76,7 @@ I’m a **full-stack software engineer** with **3+ years at Scale AI**, working 
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,apollo,rabbitmq,kafka&amp;perline=8" alt="Backend: Node.js, Express, NestJS, FastAPI, GraphQL, Apollo, RabbitMQ, Kafka" />
   </a>
 </p>
-### 🗄️ Databases, Caching, ORM & Validation
+ 🗄️ Databases, Caching, ORM & Validation
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -204,15 +204,14 @@ I’m a **full-stack software engineer** with **3+ years at Scale AI**, working 
   </a>
 </p>
 
-### 🐍 Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbedinJoynal/AbedinJoynal/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbedinJoynal/AbedinJoynal/output/github-snake.svg" />
     <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AbedinJoynal/AbedinJoynal/output/github-snake.svg" />
   </picture>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dynamic developer quote card" />
