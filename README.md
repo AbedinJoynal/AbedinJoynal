@@ -42,12 +42,12 @@ I’m a **full-stack software engineer** with **3+ years at Scale AI**, working 
 - **Software engineering:** Full-stack applications, API design, data systems, cloud delivery, and quality engineering.
 - **AI & RLHF:** LLM evaluation, SFT and preference data, rubric calibration, red-teaming, and model safety.
 
-<details>
+<!-- <details>
 <summary><b>🔍 How I approach model quality</b></summary>
 
 **Define the task** → **Set clear criteria** → **Evaluate outputs** → **Create training examples** → **Check regressions and safety**
 
-</details>
+</details> -->
 
 ---
 
@@ -56,48 +56,37 @@ I’m a **full-stack software engineer** with **3+ years at Scale AI**, working 
 ### 💻 Programming Languages
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,bash,html,css,md&amp;perline=10" alt="Languages: TypeScript, JavaScript, Python, Java, C++, C, Bash, HTML, CSS, Markdown" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,bash,html,css,md&amp;perline=10" alt="Languages: TypeScript, JavaScript, Python, Java, C++, C, Bash, HTML, CSS, Markdown" />
 </p>
 
 ### 🎨 Frontend & Cross-Platform UI
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,redux,tailwind,materialui,bootstrap,vite,figma&amp;perline=10" alt="Frontend: React, Next.js, Angular, Vue, Redux, Tailwind CSS, Material UI, Bootstrap, Vite, Figma" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,redux,tailwind,materialui,bootstrap,vite,figma&amp;perline=10" alt="Frontend: React, Next.js, Angular, Vue, Redux, Tailwind CSS, Material UI, Bootstrap, Vite, Figma" />
 </p>
 
 ### ⚙️ Backend, APIs & Event-Driven Systems
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,apollo,rabbitmq,kafka&amp;perline=8" alt="Backend: Node.js, Express, NestJS, FastAPI, GraphQL, Apollo, RabbitMQ, Kafka" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,apollo,rabbitmq,kafka&amp;perline=8" alt="Backend technology icons" />
 </p>
- 🗄️ Databases, Caching, ORM & Validation
+
+### 🗄️ Databases, Caching, ORM & Validation
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,dynamodb,supabase,firebase,prisma&amp;perline=9" alt="Databases: MongoDB, PostgreSQL, MySQL, SQLite, Redis, DynamoDB, Supabase, Firebase, Prisma" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,dynamodb,supabase,firebase,prisma&amp;perline=9" alt="Databases: MongoDB, PostgreSQL, MySQL, SQLite, Redis, DynamoDB, Supabase, Firebase, Prisma" />
 </p>
 
 ### ☁️ Cloud, DevOps, Observability & Testing
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,nginx,cloudflare,githubactions,git,github,linux,vercel,netlify,jest,vitest,cypress,selenium,postman,sentry&amp;perline=9" alt="Cloud, DevOps, and Testing: AWS, Docker, Kubernetes, Terraform, Nginx, Cloudflare, GitHub Actions, Git, GitHub, Linux, Vercel, Netlify, Jest, Vitest, Cypress, Selenium, Postman, Sentry" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,nginx,cloudflare,githubactions,git,github,linux,vercel,netlify,jest,vitest,cypress,selenium,postman,sentry&amp;perline=9" alt="Cloud, DevOps, and Testing: AWS, Docker, Kubernetes, Terraform, Nginx, Cloudflare, GitHub Actions, Git, GitHub, Linux, Vercel, Netlify, Jest, Vitest, Cypress, Selenium, Postman, Sentry" />
 </p>
 
 ### 🤖 AI, LLM Post-Training, RLHF & Evaluation Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda&amp;perline=6" alt="AI and ML Frameworks: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Anaconda" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda&amp;perline=6" alt="AI and ML Frameworks: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Anaconda" />
 </p>
 <p align="left">
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="32" alt="Hugging Face" />
@@ -168,13 +157,11 @@ I’m a **full-stack software engineer** with **3+ years at Scale AI**, working 
 
 ## 📊 GitHub Analytics & Engineering Telemetry
 
-### 🏆 Achievements & Trophies
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/AbedinJoynal">
     <img src="https://github-profile-trophy.vercel.app/?username=AbedinJoynal&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6&amp;margin-w=10" alt="Joynal Abedin's GitHub profile trophies" />
   </a>
-</p>
+</p> -->
 
 ### 📈 Commit Stats, Streaks & Language Breakdown
 
@@ -220,4 +207,3 @@ I’m a **full-stack software engineer** with **3+ years at Scale AI**, working 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0e7490,100:0f172a&amp;height=100&amp;section=footer" width="100%" alt="Decorative wave footer" />
 </p>
-```
