@@ -45,7 +45,7 @@
 
 ## ⚡ About Me
 
-<img align="right" width="310" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Animated developer multi-screen engineering workspace" />
+<img align="right" width="380" src="./ai-engineering-hud.svg" alt="Live Full-Stack and AI RLHF Telemetry HUD" />
 
 I operate at the intersection of **production software engineering** and **frontier AI post-training**, pairing **3+ years at Scale AI** with end-to-end full-stack cloud development.
 
