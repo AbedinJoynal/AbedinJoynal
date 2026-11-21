@@ -169,7 +169,7 @@ I operate at the intersection of **production software engineering** and **front
     </td>
     <td width="50%" align="center" valign="top">
       <br />
-      <a href="https://github.com/AbedinJoynal/Hotelghor-frontend">
+      <a href="https://github.com/AbedinJoynal/Hotelghor">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbedinJoynal&repo=Hotelghor-frontend&bg_color=0b1220&title_color=38bdf8&icon_color=10b981&text_color=cbd5e1&hide_border=true&border_radius=12" alt="Hotelghor-frontend repository card" />
       </a>
       <p align="left">
