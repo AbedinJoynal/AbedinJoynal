@@ -47,7 +47,10 @@
 
 <img align="right" width="375" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1800&pause=700&color=10B981&background=0B1220&multiline=true&repeat=true&width=375&height=130&lines=%24+whoami+%E2%86%92+joynal_abedin;%24+stack+%E2%86%92+TS+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+AWS;%24+align+%E2%86%92+RLHF+%E2%80%A2+SFT+%E2%80%A2+DPO+%E2%80%A2+Safety;%E2%9C%93+3%2B+yrs+%40+Scale+AI+%7C+Production+Ready" alt="Live self-typing engineering terminal" />
 
-I operate at the intersection of **production software engineering** and **frontier AI post-training**, pairing **3+ years at Scale AI** with end-to-end full-stack cloud development.
+<br />
+<p> 
+  <br />
+  I operate at the intersection of **production software engineering** and **frontier AI post-training**, pairing **3+ years at Scale AI** with end-to-end full-stack cloud development. </p>
 
 - 🚀 **Full-Stack Systems:** Building resilient, responsive applications with **TypeScript, React, Next.js, Node.js, and AWS**.
 - 🧠 **AI & Model Quality:** Driving **LLM evaluation, SFT, RLHF / DPO**, rubric engineering, and adversarial safety testing.
@@ -199,8 +202,6 @@ I operate at the intersection of **production software engineering** and **front
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="28" alt="Animated fire" /> GitHub Telemetry & Momentum
 </h2>
 
-<br />
-
 <!-- <p align="center">
   <a href="https://github.com/AbedinJoynal">
     <img src="https://github-profile-trophy.vercel.app/?username=AbedinJoynal&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=18" alt="Joynal Abedin's GitHub trophies" />
@@ -226,12 +227,6 @@ I operate at the intersection of **production software engineering** and **front
 </p>
 
 <br />
-
-<p align="center">
-  <a href="https://github.com/AbedinJoynal">
-    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbedinJoynal&bg_color=0b1220&color=94a3b8&line=10b981&point=38bdf8&area=true&area_color=0891b2&title_color=38bdf8&hide_border=true&radius=14" alt="Joynal Abedin's GitHub contribution activity graph" />
-  </a>
-</p>
 
 <br />
 
