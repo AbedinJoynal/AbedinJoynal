@@ -24,6 +24,31 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Remove bottom green progress bar from SVGs
+        run: |
+          python3 - << 'EOF'
+          import glob, re
+
+          for path in glob.glob("dist/*.svg"):
+              with open(path, "r", encoding="utf-8") as f:
+                  svg = f.read()
+
+              # Hide Platane/snk's bottom progress-bar rects (class="u")
+              svg = svg.replace("</style>", ".u{display:none!important;}</style>", 1)
+
+              # Crop the extra bottom space reserved for the progress bar
+              def crop_vb(m):
+                  x, y, w, h = [float(v) for v in m.group(1).split()]
+                  new_h = int(h - 44) if h > 160 else int(h)
+                  return f'viewBox="{int(x)} {int(y)} {int(w)} {new_h}"'
+
+              svg = re.sub(r'viewBox="([^"]+)"', crop_vb, svg, count=1)
+              svg = re.sub(r'height="(\d+)"', lambda m: f'height="{int(m.group(1)) - 44}"' if int(m.group(1)) > 160 else m.group(0), svg, count=1)
+
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(svg)
+          EOF
+
       - name: Publish snake files
         uses: crazy-max/ghaction-github-pages@v4
         with:
