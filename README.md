@@ -235,9 +235,17 @@ I operate at the intersection of **production software engineering** and **front
 
 <br />
 
-<p align="center">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbedinJoynal/AbedinJoynal/output/github-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbedinJoynal/AbedinJoynal/output/github-snake.svg?v=2" />
+    <img width="94%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AbedinJoynal/AbedinJoynal/output/github-snake.svg?v=2" />
+  </picture>
+</div>
+
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="420" alt="Animated Pac-Man contribution chaser" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1400&color=38BDF8&center=true&vCenter=true&width=700&height=30&lines=Always+shipping+clean+code+and+higher-signal+AI+systems.;Thanks+for+stopping+by+%E2%80%94+let%27s+build+something+impactful." alt="Closing animated tagline" />
