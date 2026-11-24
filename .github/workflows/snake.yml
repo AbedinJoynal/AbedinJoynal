@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
+      - master
       - main
 
 permissions:
@@ -19,13 +20,12 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AbedinJoynal
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Publish snake files
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
